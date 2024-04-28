@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.kcisec.site</id>
+    <title>Eric Stone - Blog</title>
+    <updated>2024-04-28T12:28:14.771Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.kcisec.site"/>
+    <link rel="self" href="https://blog.kcisec.site/atom.xml"/>
+    <subtitle>书山有路勤为径，学海无涯苦作舟。</subtitle>
+    <logo>https://blog.kcisec.site/images/avatar.png</logo>
+    <icon>https://blog.kcisec.site/favicon.ico</icon>
+    <rights>All rights reserved 2024, Eric Stone - Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[校园网使用教程]]></title>
+        <id>https://blog.kcisec.site/post/xiao-yuan-wang-shi-yong-jiao-cheng/</id>
+        <link href="https://blog.kcisec.site/post/xiao-yuan-wang-shi-yong-jiao-cheng/">
+        </link>
+        <updated>2024-04-28T12:12:30.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>这可能是你能找到的最完整的KCISEC校园网使用教程。</p>
+</blockquote>
+<h1 id="说明">说明</h1>
+<p>首先，我要提前声明：<br>
+文章内不会教你如何破解KCIS_T的密码；<br>
+文章内的一些翻墙方式可能会随时失效；<br>
+请慎用WARP。</p>
+<h1 id="校园网如何登录">校园网：如何登录？</h1>
+<p>我们学校的校园网使用PEAP网络加密登录方式。所以无法使用像家里的Wi-Fi一样直接输入密码就可以登录，而是需要使用账号+密码。因此，词典笔连不了，非Appke Watch非Google Wear系统的智能手表无法连接。Android手机的连接，则要在证书验证的选项框内选择“不验证”，验证方式选MSCHAPv2（有关网络安全认证PEAP的介绍链接<a href="https://zh.wikipedia.org/wiki/%E6%89%A9%E5%B1%95%E8%AE%A4%E8%AF%81%E5%8D%8F%E8%AE%AE#PEAP">点这里</a>）。</p>
+<h1 id="如何使用warp">如何使用WARP</h1>
+<p><a href="https://1111-releases.cloudflareclient.com/windows/Cloudflare_WARP_Release-x64.msi">Win版下载链接</a>（下载时间可能较久，请耐心等待）。或可自行进入<a href="https://one.one.one.one">WARP网站</a>下载。<br>
+WARP是电脑右下角的一个插件。使用它要先切换到VPN网络。打开后即可享受高质量无捆绑的网络体验（如抖音等被屏蔽的可被国外环境访问的网站）。<br>
+需注意，校园内网的的所有东西（例如查餐或校务系统）将无法使用，需关闭WARP后刷新。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[校园公告]]></title>
+        <id>https://blog.kcisec.site/post/Notice/</id>
+        <link href="https://blog.kcisec.site/post/Notice/">
+        </link>
+        <updated>2024-04-02T14:24:10.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>持续更新 <em>最近更新 2024年4月28日</em></p>
+</blockquote>
+<h2 id="重要提醒">🏴重要提醒</h2>
+<p>在课程期间(包含正课、自习课、社团课、弹性时间、集会、晚自习等)需要请同学将智能手表收进书包或置物柜内，不可佩戴，且不得出现在课堂上，请学生自行保管好；课堂以外的课间时间，可以配戴但仍然无法使用计时和看时间以外的功能。如上课违规使用智能手表一级警告信处理！<br>
+由于五一放假调休，语言中心晚间课程补课安排如下：<br>
+4月28日补周四的英语班课和一对一课程；4月29日正常上周一的班课和一对一课程；4月30日不上课（包含班课和一对一课程）。</p>
+<h2 id="校庆篮球赛">🏀校庆篮球赛</h2>
+<p>关于十周年校庆亲师生3V3篮球赛活动学生参赛队伍部分，因G6-G8年段班级篮球赛已决出冠军班级，故G6-G8亲师生篮球赛参赛班级为703和806。G9-G12年级因决赛还未进行，故各年级同学可自行组建一支5人队伍参赛，参赛队伍名单确认后可于4/30中午12点前提交至教一、教二活动组老师处。</p>
+<h2 id="电梯使用宣导">🚨电梯使用宣导</h2>
+<figure data-type="image" tabindex="1"><img src="https://blog.kcisec.site/post-images/1712489827071.png" alt="" loading="lazy"></figure>
+<h2 id="新学期校规修订">📑新学期校规修订</h2>
+<p>新学期校规修订开始了！即日起至4月20日，欢迎各年级同学在此期间为校规修订提供宝贵的建设性意见。需实名提案，可以提出对现有校规的修改意见也可以提出新增条款，最好有切实事例作为辅助补充。提案途径：编辑好文字内容转发给班主任老师代为提案。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[校园邮箱使用技巧]]></title>
+        <id>https://blog.kcisec.site/post/Mail-Tips/</id>
+        <link href="https://blog.kcisec.site/post/Mail-Tips/">
+        </link>
+        <updated>2024-04-02T11:27:32.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>这篇文章会告诉你如何更好的使用学校邮箱。</p>
+</blockquote>
+<p>同学们，不知道你们有没有检查<strong>邮件</strong>的习惯。到了高中，检查自己的邮件是很重要的。因此，本篇文章会讲如何更好的使用<a href="http://mail.kcisg.com" target="_blank">校园邮箱</a>（点击进入）。</p>
+<h2 id="step-1-登录">Step 1: 登录</h2>
+<p>账号：学号<br>
+密码：Ks@生日</p>
+<p>进入后可以选择使用新邮箱界面。接下来的所有演示将以新邮箱界面为例。</p>
+<h2 id="step-2-如何使用第三方邮箱软件">Step 2: 如何使用第三方邮箱软件</h2>
+<p>登录后点击设置<br>
+<img src="https://blog.kcisec.site/post-images/1712057726298.png" alt="" loading="lazy"></p>
+<p>然后在“账号与安全”里点击“客户端设置”中的“进入设置”<br>
+<img src="https://blog.kcisec.site/post-images/1712057808276.png" alt="" loading="lazy"></p>
+<p>选择上面的选项。这里不要勾选专用密码，否则你可能会忘记自己设的密码。用初始密码直接设置最稳妥。<br>
+<img src="https://blog.kcisec.site/post-images/1712057846666.png" alt="" loading="lazy"></p>
+<p>第三方邮箱App：Microsoft Outlook或者官方的网易邮箱大师App，这里以Outlook为例。<br>
+<img src="https://blog.kcisec.site/post-images/1712058129066.png" alt="" loading="lazy"></p>
+<p>SMTP smtphz.qiye.163.com	465<br>
+IMAP imaphz.qiye.163.com	993<br>
+邮箱软件自动生成的端口是错误的，请手动设置并填写上方的链接和端口。下方的照片是已经填写好的，可以抄。（网易企业邮箱App不需要另外设置）<br>
+<img src="https://blog.kcisec.site/post-images/1712058533775.png" alt="" loading="lazy"><br>
+<img src="https://blog.kcisec.site/post-images/1712058539105.png" alt="" loading="lazy"><br>
+<img src="https://blog.kcisec.site/post-images/1712058609708.png" alt="" loading="lazy"><br>
+最后点击提交，即可。</p>
+<h2 id="step-3-如何自动分类邮件">Step 3: 如何自动分类邮件</h2>
+<p>有些时候，每日公报等邮件混在你的学术性邮件内显得很烦。我来教你怎么设置，使某些带有关键词的邮件被自动分类到一个文件夹中。<br>
+还是点击设置<br>
+<img src="https://blog.kcisec.site/post-images/1712057726298.png" alt="" loading="lazy"><br>
+点击“邮件设置”，在右侧快捷栏中找到“来信分类”，点击。最后点击“进入设置”<br>
+<img src="https://blog.kcisec.site/post-images/1712058945945.png" alt="" loading="lazy"><br>
+点击“新建分类规则”<br>
+<img src="https://blog.kcisec.site/post-images/1712059074628.png" alt="" loading="lazy"><br>
+以每日公报为例。“如果主题包含”意思为邮件的标题包含关键字。“移动到”指把邮件归类到一个专门的文件夹。<br>
+<img src="https://blog.kcisec.site/post-images/1712059147655.png" alt="" loading="lazy"></p>
+<h2 id="总结">总结</h2>
+<p>本教程会不定期更新，祝大家通过邮件连接学习资源，考上理想的学校。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G10 IGCSE 选课]]></title>
+        <id>https://blog.kcisec.site/post/G10-IG-Intro/</id>
+        <link href="https://blog.kcisec.site/post/G10-IG-Intro/">
+        </link>
+        <updated>2024-04-02T00:34:53.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>IGCSE课程选择的同学，这篇文章相对可以给你提供一些意见。</p>
+</blockquote>
+<h2 id="前言">😎前言</h2>
+<p>相信有不少同学在<strong>G10选课</strong>的时候选择了<em>A-Level</em>体系课程。IGCSE的选课不如美高或IB丰富/复杂，但是也会让同学们些许的犹豫。我们今天就来聊聊IGCSE的选课。<br>
+让我们先从IGCSE介绍开始。</p>
+<h2 id="什么是igcse">😕什么是IGCSE</h2>
+<p>IGCSE，全称<strong>International General Certificate of Secondary Education</strong>，<strong>国际中学教育普通证书</strong>，通常被认为是A-Level的<strong>预科</strong>，通常为一年/两年制。康桥学校使用<strong>一年制</strong>IGCSE模式。</p>
+<h3 id="为什么选择ig">🤔为什么选择IG？</h3>
+<p>IGCSE和体制内的考试模式类似，申请大学一般仅需要提供3门A-Level大考成绩，例如AAB，<strong>没有GPA</strong>，而且A-Level大考可以<strong>重考</strong>，觉得对成绩不满意即可申请重考。且，在A2（12年级）A-Level大考时，只需要申请<strong>三门学科</strong>考试，大学只看你这三门考试成绩的分数。对于偏科/优势学科的学生，A-Level体系真的是很好的选择。<br>
+<em>IGCSE考试季：5月或11月。每个学科至少参加两个模块的考试。若没有考出理想的成绩，可在下个考试季参加重考。</em></p>
+<h2 id="课程选择">😯课程选择</h2>
+<p>今年，IGCSE共有5种课程组合，即</p>
+<ul>
+<li>理科1 - 化学、物理、生物</li>
+<li>理科2 - 化学、生物、心理</li>
+<li>理科3 - 化学、物理、经济</li>
+<li>商科 - 经济、商科、心理</li>
+<li>艺术 - 设计与艺术、设计与科技、心理<br>
+（<em>今年不开设Computer Science课程</em>）</li>
+</ul>
+<p>其中，必修课程有</p>
+<ul>
+<li>IGCSE: English As a Second Language</li>
+<li>Swimming</li>
+<li>Mathematics (Extended, Standard)<br>
+同学们可以对自己感兴趣的课程组合进行选择。</li>
+</ul>
+<h3 id="关于扩展基础数学">😦关于扩展/基础数学</h3>
+<p><em>Extended Math</em>和<em>Standard Math</em>对应着IG剑桥考试局里的Core课程和Extended课程。IGCSE核心数学（Core）是针对那些想要掌握数学的基本概念，并以C成绩（满分C）通过这门学科的学生。IGCSE扩展大纲（Extended）包括核心以及扩展主题，教授的课程内容更加深入和详细。 这两个教学大纲的主要区别之一是评分。<br>
+课程难度：核心课程提供<strong>学科的概述</strong>，并涵<strong>盖主题的基础知识</strong>；扩展课程提供有<strong>关主题的深入知识</strong>，更加<em>专业化</em>。<br>
+学生预期能力：核心课程覆盖<em>大部分</em>学生；扩展课程专为<em>学术能力较强</em>的学生设计。<br>
+可获得的成绩：<strong>核心课程为C, D, E, F, G</strong>（不可获得更高成绩）；<em><em>扩展课程为A</em>, A, B, C, D</em>*（无上限成绩）。<br>
+高等教育：核心课程无法为进一步的数学学习打好基础；扩展课程能帮助学生<strong>更好的过渡到下一阶段的教育</strong>。<br>
+考试：核心课程考两张试卷（paper1和3），扩展课程考两张试卷（paper2和4）。</p>
+<h2 id="总结">🕶总结</h2>
+<p>总之，没有最好的课程体系，只有最适合自己的课程体系。希望同学们在A-Level这条大路上越走越远，最后考上自己理想的大学。</p>
+]]></content>
+    </entry>
+</feed>
