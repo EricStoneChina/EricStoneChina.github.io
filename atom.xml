@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.kcisec.site</id>
+    <title>Eric Stone - Blog</title>
+    <updated>2024-10-12T02:38:28.144Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.kcisec.site"/>
+    <link rel="self" href="https://blog.kcisec.site/atom.xml"/>
+    <subtitle>书山有路勤为径，学海无涯苦作舟。</subtitle>
+    <logo>https://blog.kcisec.site/images/avatar.png</logo>
+    <icon>https://blog.kcisec.site/favicon.ico</icon>
+    <rights>All rights reserved 2024, Eric Stone - Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[学生卡使用指南]]></title>
+        <id>https://blog.kcisec.site/post/Stud-ID-Card-Guide/</id>
+        <link href="https://blog.kcisec.site/post/Stud-ID-Card-Guide/">
+        </link>
+        <updated>2024-07-31T01:48:15.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>这可能是你能找到的最详细的昆山康桥学校校园卡使用指南。</p>
+</blockquote>
+<p>校园卡在我们的康桥学习旅程中十分重要。但是，你是否知道一些有关校园卡的一些使用技巧呢？</p>
+<h2 id="校园卡丢失">😟校园卡丢失</h2>
+<p>相信大多数同学都会遇到校园卡丢失的情况。其中很多同学应该都会去IT组补办一张，但那会消耗50元。所以我将教你更聪明且免费的方法。<br>
+如果你用的是带NFC功能的Android手机（几乎所有主流厂商的手机都包含全功能NFC），iPhone除外（iPhone的Apple Pay安全保护功能限制了用户手动添加自己空白卡片的功能。当然，亦可模拟一张公交卡然后去IT激活，但是风险大+不好用，这里不会讲述）。<br>
+打开手机内自带的智能卡管理界面，点击加号，点击模拟卡。<br>
+随便找一张NFC卡片，亦可淘宝购买（一张空白卡片价格在0.8-2元不等），贴在手机上，完成手机端激活流程。或者，直接在手机上模拟空白卡，不要实体卡了，也是一种办法。但是激活的话你得绑到手表/手环上或者周五放学有手机了去激活。<br>
+然后找到学校校务系统（<a href="https://portal.kcisec.com/china">点击跳转</a>）-中学部学务系统-学生证补办/激活/打印餐票-新增-旧卡激活（必须当天申请，可以现场申请），然后拿着你的实体卡片去第一教学楼二楼第一楼梯出门右转（一餐厅对面）的IT组（最好弹性时间去，中午老师们在午休），找办公桌上挂着“值班”牌子的值班老师，告诉他姓名然后刷一下实体卡片（当然如果是周五的话也可以直接刷手机），就卡激活流程完成。以后你这张实体卡所附属的内存内容就是你的学生卡了。学生卡的NFC内存可以随意复制，。例如，假设你有智能手表（不支持Apple Watch和大部分Google Wear手表）的话，也可以直接在手表上添加卡片，免去忘记带实体卡片的困扰。</p>
+<h2 id="原神启动卡片">😎「原神启动」卡片</h2>
+<p>不知同学们有没有刷到过一种视频，一位博主拿着一张NFC卡片，刷了一下手机，然后手机开始播放歌曲/启动应用。其实这个技术没有那么复杂，而且所有NFC卡片都可以做到（限制：仅带NFC功能的Android手机可实现启动应用。只有包含全功能NFC功能的Android手机可以写入内存。）</p>
+<p>应用：NFC Tools（下载链接在外网Google Play，各位同学可以自己找渠道下载）<br>
+进入应用后，点击上方菜单栏的“写”模块。<br>
+点击“添加记录”，<br>
+点击“应用程序”，<br>
+可自己点击右面的按钮选择应用，又或直接填入应用包名（Android系统应用的唯一标识符，一般为com.xxx.xxx），例如原神是“com.miHoYo.Yuanshen”。填好了后点击“OK”。<br>
+回到界面，点击“写”，然后贴近卡片即可写入成功。注意，此时只是添加了一个附属功能，不会改变卡原来的内存内容。所以假如写入了学生卡不代表学生卡已经被替换，是可以修复的。<br>
+修复：任务栏点击“其他”，“格式化内存”，贴近卡片等一会，卡片内存清空，恢复卡面原本功能。<br>
+这个App功能很多，同学们可以自己摸索摸索</p>
+<p>持续更新中，如果你有什么更多的小技巧/点子，可以发邮箱至contribute@blog.kcisec.site。<br>
+感谢你能看到这里！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投稿指引]]></title>
+        <id>https://blog.kcisec.site/post/Contributions-Guide/</id>
+        <link href="https://blog.kcisec.site/post/Contributions-Guide/">
+        </link>
+        <updated>2024-07-24T09:47:08.000Z</updated>
+        <content type="html"><![CDATA[<p>从现在开始，博客接受来自全校范围内的投稿。<br>
+<strong>接受以下分类：</strong></p>
+<ul>
+<li>技巧（如WiFi如何连接等）</li>
+<li>学习（如如何快速提升学习效率）</li>
+<li>其他（需经过审核，审核通过后会增加全新分类内容。）</li>
+</ul>
+<p>内容需积极向上正能量。不可出现包括但不限于：</p>
+<ul>
+<li>诋毁本校、本校所属集团和/或其他姊妹学校。</li>
+<li>诋毁国家、反对当前政策的相关内容。</li>
+</ul>
+<h2 id="如何投稿">📥如何投稿</h2>
+<p><a href="mailto:contribute@blog.kcisec.site">contribute@blog.kcisec.site</a></p>
+<h3 id="投稿格式">📩投稿格式</h3>
+<p>需使用<a href="http://mail.kcisg.com">学校邮箱</a>发送投稿。<br>
+主题：博客投稿 xx班xxx</p>
+<p><strong>期待各位的投稿！</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[校园网使用教程]]></title>
+        <id>https://blog.kcisec.site/post/School-WiFi-Guide/</id>
+        <link href="https://blog.kcisec.site/post/School-WiFi-Guide/">
+        </link>
+        <updated>2024-04-28T12:12:30.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="校园网如何登录">校园网：如何登录？</h1>
+<p>我们学校的校园网使用PEAP网络加密登录方式。所以无法使用像家里的Wi-Fi一样直接输入密码就可以登录，而是需要使用账号+密码。因此，大部分词典笔连不了，非Apple Watch、非Google Wear系统的智能手表无法连接。Android手机的连接，则要在证书验证的选项框内选择“不验证”，验证方式选MSCHAPv2（有关网络安全认证PEAP的介绍链接<a href="https://zh.wikipedia.org/wiki/%E6%89%A9%E5%B1%95%E8%AE%A4%E8%AF%81%E5%8D%8F%E8%AE%AE#PEAP">点这里</a>）。<br>
+登录完后，会自动跳转至<strong>网络验证界面</strong>（就和你去麦当劳连免费WiFi要验证码一样）。如无法跳转至验证界面，<a href="http://192.168.89.167">可手动访问</a>。每周都要进行认证。</p>
+<h1 id="如何使用warp">如何使用WARP</h1>
+<p><a href="https://1111-releases.cloudflareclient.com/windows/Cloudflare_WARP_Release-x64.msi">Win版下载链接</a>（下载时间可能较久，请耐心等待）。或可自行进入<a href="https://one.one.one.one">WARP网站</a>下载。<br>
+WARP是电脑右下角的一个插件。使用它要先切换到VPN网络。打开后即可享受高质量无捆绑的网络体验（如抖音等被屏蔽的可被国外环境访问的网站）。<br>
+需注意，校园内网的的所有东西（例如查餐或校务系统）将无法使用，需关闭WARP后刷新。<br>
+且，使用WARP会使国内的大部分网站访问异常/速度明显下降，请谨慎使用！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[校园公告]]></title>
+        <id>https://blog.kcisec.site/post/Notice/</id>
+        <link href="https://blog.kcisec.site/post/Notice/">
+        </link>
+        <updated>2024-04-02T14:24:10.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p><strong>For G10卓扬</strong> 持续更新 <em>最近更新 2024年10月12日</em></p>
+</blockquote>
+<p>学术比赛信息：<a href="https://kcisec.site/academic_activity/W7.pdf">W7学术信息</a></p>
+<h2 id="综合通知">综合通知</h2>
+<p>教三3号楼梯口，四楼通向五楼楼梯通道施工，需要前往五楼体育馆的师生，请从4号楼梯绕行，施工预计到 11月底结束。教三3号口外修建雨棚，施工期间请师生绕行。<br>
+本周日（10月13号）返校开始，对周末班车路线上海周末1-1线、苏州周末1线返校时间作优化调整，烦请搭乘该路线的学生收悉！</p>
+<h2 id="ap考试">AP考试</h2>
+<p>2025年5月份的AP考试于2024年9月25日报名开始，报名截止日期是2024年10月24日。<a href="https://www.prometric.com.cn/apregistration">请参考普尔文AP考试官网报名信息</a>。<br>
+登记报名AP考试之后，信息完善、上传照片和付款缴费时间段是2024年9月25日-2024年11月15日。后续，教务处会校内邮件通知安排报名了AP考试的学生完成以上任务。<br>
+校内AP班上的学生，除世界历史和美国历史外，其他在校内学AP课程的学生必须参加AP考试，高中教务处已有这些学生对应考试科目的数据，此类学生无需重复报名，校内AP班学生若要增加非校内所学AP科目的考试，学生需要携带电脑来教三二楼3215办公室添加考试信息；没有在校内学习AP课程的学生，也可以跟随学校报名参加AP考试，此类学生的学习和辅导这个环节需要学生和家长自行安排，请学生携带电脑，来3215高中教务处办公室找尤慧老师登记报名信息。<br>
+世界历史和美国历史科目中国大陆无考点，校内学习这些AP课程的学生可以自愿选择是否参加考试，可自愿选择在中国香港地区、韩国、新加坡等亚洲考点考试。</p>
+<h2 id="美高开放日">美高开放日</h2>
+<p>美高将于2024年10月18日举办G10-12校园开放日，报名用餐的家长将于二餐用餐，有需要与家长共同用餐的同学请务必定二餐餐食。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[校园邮箱使用技巧]]></title>
+        <id>https://blog.kcisec.site/post/Mail-Tips/</id>
+        <link href="https://blog.kcisec.site/post/Mail-Tips/">
+        </link>
+        <updated>2024-04-02T11:27:32.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>这篇文章会告诉你如何更好的使用学校邮箱。</p>
+</blockquote>
+<p>同学们，不知道你们有没有检查<strong>邮件</strong>的习惯。到了高中，检查自己的邮件是很重要的。因此，本篇文章会讲如何更好的使用<a href="http://mail.kcisg.com" target="_blank">校园邮箱</a>（点击进入）。</p>
+<h2 id="step-1-登录">Step 1: 登录</h2>
+<p>账号：学号<br>
+密码：Ks@生日（如失败请试一下Kskq%生日）</p>
+<p>进入后可以选择使用新邮箱界面。接下来的所有演示将以新邮箱界面为例。</p>
+<h2 id="step-2-如何使用第三方邮箱软件">Step 2: 如何使用第三方邮箱软件</h2>
+<p>登录后点击设置<br>
+<img src="https://blog.kcisec.site/post-images/1712057726298.png" alt="" loading="lazy"></p>
+<p>然后在“账号与安全”里点击“客户端设置”中的“进入设置”<br>
+<img src="https://blog.kcisec.site/post-images/1712057808276.png" alt="" loading="lazy"></p>
+<p>选择上面的选项。这里不要勾选专用密码，否则你可能会忘记自己设的密码。用初始密码直接设置最稳妥。<br>
+<img src="https://blog.kcisec.site/post-images/1712057846666.png" alt="" loading="lazy"></p>
+<p>第三方邮箱App：Microsoft Outlook或者官方的网易邮箱大师App，这里以Outlook为例。<br>
+<img src="https://blog.kcisec.site/post-images/1712058129066.png" alt="" loading="lazy"></p>
+<p>SMTP smtphz.qiye.163.com	465<br>
+IMAP imaphz.qiye.163.com	993<br>
+邮箱软件自动生成的端口和IMAP访问地址是错误的，请手动设置并填写上方的链接和端口。下方的照片是已经填写好的，可以参考一下。（网易邮箱页面不需要另外设置）<br>
+<img src="https://blog.kcisec.site/post-images/1712058533775.png" alt="" loading="lazy"><br>
+<img src="https://blog.kcisec.site/post-images/1712058539105.png" alt="" loading="lazy"><br>
+<img src="https://blog.kcisec.site/post-images/1712058609708.png" alt="" loading="lazy"><br>
+最后点击提交，即可。</p>
+<h2 id="step-3-如何自动分类邮件">Step 3: 如何自动分类邮件</h2>
+<p>有些时候，每日公报等邮件混在你的学术性邮件内显得很烦。我来教你怎么设置，使某些带有关键词的邮件被自动分类到一个文件夹中。<br>
+还是点击网易邮箱网站内设置<br>
+<img src="https://blog.kcisec.site/post-images/1712057726298.png" alt="" loading="lazy"><br>
+点击“邮件设置”，在右侧快捷栏中找到“来信分类”，点击。最后点击“进入设置”<br>
+<img src="https://blog.kcisec.site/post-images/1712058945945.png" alt="" loading="lazy"><br>
+点击“新建分类规则”<br>
+<img src="https://blog.kcisec.site/post-images/1712059074628.png" alt="" loading="lazy"><br>
+以每日公报为例。“如果主题包含”意思为邮件的标题包含关键字。“移动到”指把邮件归类到一个专门的文件夹。<br>
+<img src="https://blog.kcisec.site/post-images/1712059147655.png" alt="" loading="lazy"></p>
+<h2 id="总结">总结</h2>
+<p>本教程会不定期更新，祝大家通过邮件连接学习资源，考上理想的学校。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G10 IGCSE 介绍&选课]]></title>
+        <id>https://blog.kcisec.site/post/G10-IG-Intro/</id>
+        <link href="https://blog.kcisec.site/post/G10-IG-Intro/">
+        </link>
+        <updated>2024-04-02T00:34:53.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>IGCSE课程选择的同学，这篇文章相对可以给你提供一些意见。</p>
+</blockquote>
+<h2 id="前言">😎前言</h2>
+<p>相信有不少同学在<strong>G10选课</strong>的时候选择了<em>A-Level</em>体系课程。IGCSE的选课不如美高或IB丰富/复杂，但是也会让同学们些许的犹豫。我们今天就来聊聊IGCSE的选课。<br>
+让我们先从IGCSE介绍开始。</p>
+<h2 id="什么是igcse">😕什么是IGCSE</h2>
+<p>IGCSE，全称<strong>International General Certificate of Secondary Education</strong>，<strong>国际中学教育普通证书</strong>，通常被认为是A-Level的<strong>预科</strong>，通常为一年/两年制。康桥学校使用<strong>一年制</strong>IGCSE模式。</p>
+<h3 id="为什么选择ig">🤔为什么选择IG？</h3>
+<p>IGCSE和体制内的考试模式类似，申请大学一般仅需要提供3门A-Level大考成绩（英国G5大学都需要<strong>四门</strong>AL成绩），例如AAB，<strong>没有GPA</strong>（无标化平时成绩），而且A-Level大考可以<strong>重考</strong>，觉得对成绩不满意即可申请重考。且，在A2（12年级）A-Level大考时，可申请<strong>多门学科</strong>考试，大学只看你选择的考试成绩的分数。对于偏科/优势学科的学生，A-Level体系真的是很好的选择。<br>
+<em>IGCSE考试季：5月或11月。每个学科至少参加两个模块的考试。若没有考出理想的成绩，可在下个考试季参加重考。</em></p>
+<h2 id="课程选择">😯课程选择</h2>
+<p>今年，IGCSE共有5种课程组合，即</p>
+<ul>
+<li>理科1 - 化学、物理、生物</li>
+<li>理科2 - 化学、生物、心理</li>
+<li>理科3 - 化学、物理、经济</li>
+<li>商科 - 经济、商科、心理</li>
+<li>艺术 - 设计与艺术、设计与科技、心理<br>
+（<em>今年不开设Computer Science课程</em>）</li>
+</ul>
+<p>其中，必修课程有</p>
+<ul>
+<li>IGCSE: English As a Second Language</li>
+<li>Swimming</li>
+<li>Mathematics (Extended, Standard)<br>
+同学们可以对自己感兴趣的课程组合进行选择。</li>
+</ul>
+<!-- ### 😦关于扩展/基础数学
+*Extended Math*和*Standard Math*对应着IG剑桥考试局里的Core课程和Extended课程。IGCSE核心数学（Core）是针对那些想要掌握数学的基本概念，并以C成绩（满分C）通过这门学科的学生。IGCSE扩展大纲（Extended）包括核心以及扩展主题，教授的课程内容更加深入和详细。 这两个教学大纲的主要区别之一是评分。
+课程难度：核心课程提供**学科的概述**，并涵**盖主题的基础知识**；扩展课程提供有**关主题的深入知识**，更加*专业化*。
+学生预期能力：核心课程覆盖*大部分*学生；扩展课程专为*学术能力较强*的学生设计。
+可获得的成绩：**核心课程为C, D, E, F, G**（不可获得更高成绩）；**扩展课程为A*, A, B, C, D**（无上限成绩）。
+高等教育：核心课程无法为进一步的数学学习打好基础；扩展课程能帮助学生**更好的过渡到下一阶段的教育**。
+考试：核心课程考两张试卷（paper1和3），扩展课程考两张试卷（paper2和4）。 -->
+<!-- 此处需在针对研究后修改发出 -->
+<h2 id="总结">🕶总结</h2>
+<p>总之，没有最好的课程体系，只有最适合自己的课程体系。希望同学们在A-Level这条大路上越走越远，最后考上自己理想的大学。</p>
+]]></content>
+    </entry>
+</feed>
