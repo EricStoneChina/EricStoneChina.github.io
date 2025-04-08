@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.kcisec.site</id>
+    <title>Eric Stone - Blog</title>
+    <updated>2025-04-08T02:14:10.773Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.kcisec.site"/>
+    <link rel="self" href="https://blog.kcisec.site/atom.xml"/>
+    <subtitle>书山有路勤为径，学海无涯苦作舟。</subtitle>
+    <logo>https://blog.kcisec.site/images/avatar.png</logo>
+    <icon>https://blog.kcisec.site/favicon.ico</icon>
+    <rights>All rights reserved 2025, Eric Stone - Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[[IGCSE Chem] Topic Test(S2) 复习指南]]></title>
+        <id>https://blog.kcisec.site/post/IGCSE-Chem-TopicTest-Revision/</id>
+        <link href="https://blog.kcisec.site/post/IGCSE-Chem-TopicTest-Revision/">
+        </link>
+        <updated>2025-03-11T13:38:32.000Z</updated>
+        <content type="html"><![CDATA[<p>Hi 同学们！</p>
+<p>由于Topic Test临近，我将为大家提供一份复习指南。在Mock考试之前，我也会发布整个学科的复习指南，帮助大家更好地准备考试。目前A-Level主页正在维护中，因此复习指南会暂时发布在我的Blog中，稍后会同步到A-Level主页。</p>
+<hr>
+<h2 id="概览">概览</h2>
+<p>本次化学Topic Test主要考察以下内容：</p>
+<ul>
+<li><strong>6.4 Molar Concentrations</strong></li>
+<li><strong>Chapter 8: The Rate and Extent of Chemical Change</strong>
+<ul>
+<li>8.1 Rate of Reaction</li>
+<li>8.2 Factors Affecting Equilibrium</li>
+<li>8.3 Production of Ammonia and Sulfuric Acid</li>
+<li>8.4 Redox Reactions</li>
+</ul>
+</li>
+<li><strong>Chapter 9: Energy Changes</strong>
+<ul>
+<li>9.1 Exothermic and Endothermic Reactions</li>
+<li>9.2 Calculating and Explaining Energy Change</li>
+<li>9.3 Chemical Cells and Fuel Cells</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="chapter-6">Chapter 6</h2>
+<h3 id="64-molar-concentrations">6.4 Molar Concentrations</h3>
+<p>这一部分主要讲解 <strong>滴定（Titration）</strong> 和如何测量液体浓度。</p>
+<p><strong>公式</strong>：<br>
+Concentration (mol/dm<sup>3</sup>) = number of moles/volume of solution (dm<sup>3</sup>).</p>
+<p>如果已知其中一种反应物的浓度，则可以通过 <strong>滴定（Titration）</strong> 的结果来确定另一种反应物的浓度。</p>
+<hr>
+<h2 id="chapter-8-the-rate-and-extent-of-chemical-change">Chapter 8 - The Rate and Extent of Chemical Change</h2>
+<h3 id="81-rate-of-reaction">8.1 Rate of Reaction</h3>
+<p>这一部分非常重要，主要探讨影响反应速率的因素。以下是影响反应速率的四个关键因素及其答题模板：</p>
+<table>
+<thead>
+<tr>
+<th>因素</th>
+<th>解释</th>
+<th>答题技巧</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>温度</strong></td>
+<td>增加温度会提高反应粒子的运动速度，使碰撞更频繁且更有能量，从而加快反应速率。</td>
+<td>强调温度影响粒子运动速度和碰撞频率，进而加快反应速率。</td>
+</tr>
+<tr>
+<td><strong>压力</strong></td>
+<td>增加气体反应物的压力会增加碰撞频率，从而提高反应速率。</td>
+<td>强调压力增加碰撞频率，进而加快反应速率。</td>
+</tr>
+<tr>
+<td><strong>浓度</strong></td>
+<td>增加反应物的浓度会增加碰撞频率，从而提高反应速率。</td>
+<td>强调浓度增加碰撞频率，进而加快反应速率。</td>
+</tr>
+<tr>
+<td><strong>表面积</strong></td>
+<td>增加固体反应物的表面积会增加碰撞频率，从而提高反应速率。</td>
+<td>强调表面积增加碰撞频率，进而加快反应速率。</td>
+</tr>
+</tbody>
+</table>
+<p>此外， <strong>催化剂（Catalyst）</strong> 也是影响反应速率的重要因素：</p>
+<ol>
+<li>催化剂可以加快反应速率，但其<strong>本身不被消耗</strong>。</li>
+<li>不同的化学反应需要不同的催化剂。</li>
+</ol>
+<hr>
+<h3 id="82-factors-affecting-equilibrium">8.2 Factors Affecting Equilibrium</h3>
+<p>这一部分与8.1不同，主要讨论的是<strong>化学平衡</strong>的影响因素，而不是反应速率。</p>
+<table>
+<thead>
+<tr>
+<th>条件变化</th>
+<th>吸热反应（Endothermic）</th>
+<th>放热反应（Exothermic）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>温度升高</strong></td>
+<td>产率增加</td>
+<td>产率减少</td>
+</tr>
+<tr>
+<td><strong>温度降低</strong></td>
+<td>产率减少</td>
+<td>产率增加</td>
+</tr>
+</tbody>
+</table>
+<p>对于气态反应：</p>
+<ul>
+<li><strong>压力升高</strong>：有利于生成<strong>分子数较少</strong>的一侧。</li>
+<li><strong>压力降低</strong>：有利于生成<strong>分子数较多</strong>的一侧。</li>
+</ul>
+<hr>
+<h3 id="83-production-of-ammonia-and-sulfuric-acid">8.3 Production of Ammonia and Sulfuric Acid</h3>
+<h4 id="production-of-ammonia">Production of Ammonia</h4>
+<p>氨的生产通过 <strong>哈伯法（Haber Process）</strong> 进行，原料为氮气和氢气。</p>
+<figure data-type="image" tabindex="1"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Haber-Bosch-En.svg" alt="Haber Process" loading="lazy"></figure>
+<p><strong>考试常见问题</strong>：</p>
+<ol>
+<li><strong>温度选择</strong>：
+<ul>
+<li>这是一个<strong>放热反应</strong>，降低温度会增加氨的产量。</li>
+<li>但温度过低会降低反应速率，因此需要平衡产量和反应速率。</li>
+</ul>
+</li>
+<li><strong>压力选择</strong>：
+<ul>
+<li>增加压力有利于生成氨（分子数较少的一侧）。</li>
+<li>但高压设备成本高，且存在安全隐患。</li>
+</ul>
+</li>
+</ol>
+<h4 id="production-of-sulfuric-acid">Production of Sulfuric Acid</h4>
+<p>硫酸通过 <strong>接触工艺（Contact Process）</strong> 生产，分为三个阶段，并使用 <strong>五氧化二钒（Vanadium(V) oxide）</strong> 作为催化剂。</p>
+<p>反应三阶段：<br>
+<img src="https://blog.kcisec.site/post-images/1741703773230.png" alt="" loading="lazy"><br>
+<img src="https://blog.kcisec.site/post-images/1741703779338.png" alt="" loading="lazy"></p>
+<p><strong>考试常见问题</strong>：</p>
+<ol>
+<li><strong>催化剂的作用</strong>：
+<ul>
+<li>催化剂加快反应速率，但本身不被消耗。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h3 id="84-redox-reactions">8.4 Redox Reactions</h3>
+<p>这一部分的核心是<strong>OIL RIG</strong>原则：</p>
+<ul>
+<li><strong>OIL</strong>: Oxidation Is Losing electrons（氧化是失去电子）</li>
+<li><strong>RIG</strong>: Reduction Is Gaining electrons（还原是得到电子）</li>
+</ul>
+<p>理解这一原则即可，考试中可能不会直接考察。</p>
+<hr>
+<h2 id="chapter-9-energy-changes">Chapter 9 - Energy Changes</h2>
+<h3 id="91-exothermic-and-endothermic-reactions">9.1 Exothermic and Endothermic Reactions</h3>
+<table>
+<thead>
+<tr>
+<th>反应类型</th>
+<th>能量变化</th>
+<th>例子</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>放热反应</strong></td>
+<td>能量释放到周围环境</td>
+<td>燃烧、氧化反应、中和反应</td>
+</tr>
+<tr>
+<td><strong>吸热反应</strong></td>
+<td>能量从周围环境吸收</td>
+<td>热分解、某些冷却反应</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="92-calculating-and-explaining-energy-change">9.2 Calculating and Explaining Energy Change</h3>
+<p><strong>能量计算公式</strong>：<br>
+Q=mcΔT</p>
+<ul>
+<li><strong>Q</strong>: 能量（单位：J）</li>
+<li><strong>m</strong>: 质量（单位：kg）</li>
+<li><strong>c</strong>: 比热容（单位：J/kg℃）</li>
+<li><strong>ΔT</strong>: 温度变化（单位：℃）</li>
+</ul>
+<p><strong>键能与反应类型的关系</strong>：</p>
+<table>
+<thead>
+<tr>
+<th>反应类型</th>
+<th>能量变化</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>放热反应</strong></td>
+<td>形成新键释放的能量 &gt; 打破旧键所需的能量</td>
+</tr>
+<tr>
+<td><strong>吸热反应</strong></td>
+<td>打破旧键所需的能量 &gt; 形成新键释放的能量</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="93-chemical-cells-and-fuel-cells">9.3 Chemical Cells and Fuel Cells</h3>
+<p>这一部分需要理解并比较不同燃料的优缺点。例如：</p>
+<table>
+<thead>
+<tr>
+<th>燃料类型</th>
+<th>优点</th>
+<th>缺点</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>石油</strong></td>
+<td>能量密度高，易于储存和运输</td>
+<td>污染环境，资源有限</td>
+</tr>
+<tr>
+<td><strong>氢能</strong></td>
+<td>清洁能源，燃烧产物仅为水</td>
+<td>储存和运输成本高，能量密度较低</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p>关于这次化学Topic Test的复习到这里就结束了，希望各位同学都能取得好成绩！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投稿指引]]></title>
+        <id>https://blog.kcisec.site/post/Contributions-Guide/</id>
+        <link href="https://blog.kcisec.site/post/Contributions-Guide/">
+        </link>
+        <updated>2024-07-24T09:47:08.000Z</updated>
+        <content type="html"><![CDATA[<p>从现在开始，博客接受来自全校范围内的投稿。<br>
+<strong>接受以下分类：</strong></p>
+<ul>
+<li>技巧（如WiFi如何连接等）</li>
+<li>学习（如如何快速提升学习效率）</li>
+<li>其他（需经过审核，审核通过后会增加全新分类内容。）</li>
+</ul>
+<p>内容需积极向上正能量。不可出现包括但不限于：</p>
+<ul>
+<li>诋毁本校、本校所属集团和/或其他姊妹学校。</li>
+<li>诋毁国家、反对当前政策的相关内容。</li>
+</ul>
+<h2 id="如何投稿">📥如何投稿</h2>
+<p><a href="mailto:contribute@blog.kcisec.site">contribute@blog.kcisec.site</a></p>
+<h3 id="投稿格式">📩投稿格式</h3>
+<p>需使用<a href="http://mail.kcisg.com">学校邮箱</a>发送投稿。<br>
+主题：博客投稿 xx班xxx</p>
+<p><strong>期待各位的投稿！</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[校园邮箱使用技巧]]></title>
+        <id>https://blog.kcisec.site/post/Mail-Tips/</id>
+        <link href="https://blog.kcisec.site/post/Mail-Tips/">
+        </link>
+        <updated>2024-04-02T11:27:32.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>这篇文章会告诉你如何更好的使用学校邮箱。</p>
+</blockquote>
+<p>同学们，不知道你们有没有检查<strong>邮件</strong>的习惯。到了高中，检查自己的邮件是很重要的。因此，本篇文章会讲如何更好的使用<a href="http://mail.kcisg.com" target="_blank">校园邮箱</a>（点击进入）。</p>
+<h2 id="step-1-登录">Step 1: 登录</h2>
+<p>账号：学号<br>
+密码：Ks@生日（如失败请试一下Kskq%生日）</p>
+<p>进入后可以选择使用新邮箱界面。接下来的所有演示将以新邮箱界面为例。</p>
+<h2 id="step-2-如何使用第三方邮箱软件">Step 2: 如何使用第三方邮箱软件</h2>
+<p>登录后点击设置<br>
+<img src="https://blog.kcisec.site/post-images/1712057726298.png" alt="" loading="lazy"></p>
+<p>然后在“账号与安全”里点击“客户端设置”中的“进入设置”<br>
+<img src="https://blog.kcisec.site/post-images/1712057808276.png" alt="" loading="lazy"></p>
+<p>选择上面的选项。这里不要勾选专用密码，否则你可能会忘记自己设的密码。用初始密码直接设置最稳妥。<br>
+<img src="https://blog.kcisec.site/post-images/1712057846666.png" alt="" loading="lazy"></p>
+<p>第三方邮箱App：Microsoft Outlook或者官方的网易邮箱大师App，这里以Outlook为例。<br>
+<img src="https://blog.kcisec.site/post-images/1712058129066.png" alt="" loading="lazy"></p>
+<p>SMTP smtphz.qiye.163.com	465<br>
+IMAP imaphz.qiye.163.com	993<br>
+邮箱软件自动生成的端口和IMAP访问地址是错误的，请手动设置并填写上方的链接和端口。下方的照片是已经填写好的，可以参考一下。（网易邮箱页面不需要另外设置）<br>
+<img src="https://blog.kcisec.site/post-images/1712058533775.png" alt="" loading="lazy"><br>
+<img src="https://blog.kcisec.site/post-images/1712058539105.png" alt="" loading="lazy"><br>
+<img src="https://blog.kcisec.site/post-images/1712058609708.png" alt="" loading="lazy"><br>
+最后点击提交，即可。</p>
+<h2 id="step-3-如何自动分类邮件">Step 3: 如何自动分类邮件</h2>
+<p>有些时候，每日公报等邮件混在你的学术性邮件内显得很烦。我来教你怎么设置，使某些带有关键词的邮件被自动分类到一个文件夹中。<br>
+还是点击网易邮箱网站内设置<br>
+<img src="https://blog.kcisec.site/post-images/1712057726298.png" alt="" loading="lazy"><br>
+点击“邮件设置”，在右侧快捷栏中找到“来信分类”，点击。最后点击“进入设置”<br>
+<img src="https://blog.kcisec.site/post-images/1712058945945.png" alt="" loading="lazy"><br>
+点击“新建分类规则”<br>
+<img src="https://blog.kcisec.site/post-images/1712059074628.png" alt="" loading="lazy"><br>
+以每日公报为例。“如果主题包含”意思为邮件的标题包含关键字。“移动到”指把邮件归类到一个专门的文件夹。<br>
+<img src="https://blog.kcisec.site/post-images/1712059147655.png" alt="" loading="lazy"></p>
+<h2 id="总结">总结</h2>
+<p>本教程会不定期更新，祝大家通过邮件连接学习资源，考上理想的学校。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G10 IGCSE 介绍&选课]]></title>
+        <id>https://blog.kcisec.site/post/G10-IG-Intro/</id>
+        <link href="https://blog.kcisec.site/post/G10-IG-Intro/">
+        </link>
+        <updated>2024-04-02T00:34:53.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>IGCSE课程选择的同学，这篇文章相对可以给你提供一些意见。</p>
+</blockquote>
+<h2 id="前言">😎前言</h2>
+<p>相信有不少同学在<strong>G10选课</strong>的时候选择了<em>A-Level</em>体系课程。IGCSE的选课不如美高或IB丰富/复杂，但是也会让同学们些许的犹豫。我们今天就来聊聊IGCSE的选课。<br>
+让我们先从IGCSE介绍开始。</p>
+<h2 id="什么是igcse">😕什么是IGCSE</h2>
+<p>IGCSE，全称<strong>International General Certificate of Secondary Education</strong>，<strong>国际中学教育普通证书</strong>，通常被认为是A-Level的<strong>预科</strong>，通常为一年/两年制。康桥学校使用<strong>一年制</strong>IGCSE模式。</p>
+<h3 id="为什么选择ig">🤔为什么选择IG？</h3>
+<p>IGCSE和体制内的考试模式类似，申请大学一般仅需要提供3门A-Level大考成绩（英国G5大学都需要<strong>四门</strong>AL成绩），例如AAB，<strong>没有GPA</strong>（无标化平时成绩），而且A-Level大考可以<strong>重考</strong>，觉得对成绩不满意即可申请重考。且，在A2（12年级）A-Level大考时，可申请<strong>多门学科</strong>考试，大学只看你选择的考试成绩的分数。对于偏科/优势学科的学生，A-Level体系真的是很好的选择。<br>
+<em>IGCSE考试季：5月或11月。每个学科至少参加两个模块的考试。若没有考出理想的成绩，可在下个考试季参加重考。</em></p>
+<h2 id="课程选择">😯课程选择</h2>
+<p>今年，IGCSE共有5种课程组合，即</p>
+<ul>
+<li>理科1 - 化学、物理、生物</li>
+<li>理科2 - 化学、生物、心理</li>
+<li>理科3 - 化学、物理、经济</li>
+<li>商科 - 经济、商科、心理</li>
+<li>艺术 - 设计与艺术、设计与科技、心理<br>
+（<em>今年不开设Computer Science课程</em>）</li>
+</ul>
+<p>其中，必修课程有</p>
+<ul>
+<li>IGCSE: English As a Second Language</li>
+<li>Swimming</li>
+<li>Mathematics (Extended, Standard)<br>
+同学们可以对自己感兴趣的课程组合进行选择。</li>
+</ul>
+<!-- ### 😦关于扩展/基础数学
+*Extended Math*和*Standard Math*对应着IG剑桥考试局里的Core课程和Extended课程。IGCSE核心数学（Core）是针对那些想要掌握数学的基本概念，并以C成绩（满分C）通过这门学科的学生。IGCSE扩展大纲（Extended）包括核心以及扩展主题，教授的课程内容更加深入和详细。 这两个教学大纲的主要区别之一是评分。
+课程难度：核心课程提供**学科的概述**，并涵**盖主题的基础知识**；扩展课程提供有**关主题的深入知识**，更加*专业化*。
+学生预期能力：核心课程覆盖*大部分*学生；扩展课程专为*学术能力较强*的学生设计。
+可获得的成绩：**核心课程为C, D, E, F, G**（不可获得更高成绩）；**扩展课程为A*, A, B, C, D**（无上限成绩）。
+高等教育：核心课程无法为进一步的数学学习打好基础；扩展课程能帮助学生**更好的过渡到下一阶段的教育**。
+考试：核心课程考两张试卷（paper1和3），扩展课程考两张试卷（paper2和4）。 -->
+<!-- 此处需在针对研究后修改发出 -->
+<h2 id="总结">🕶总结</h2>
+<p>总之，没有最好的课程体系，只有最适合自己的课程体系。希望同学们在A-Level这条大路上越走越远，最后考上自己理想的大学。</p>
+]]></content>
+    </entry>
+</feed>
